@@ -20,7 +20,7 @@
 5. [Module 05 — Wireless Security](modules/Module-05.md)  
 6. [Module 06 — Digital Forensics Fundamentals](modules/Module-06.md)  
 7. [Module 07 — Incident Response Workflow](modules/Module-07.md)  
-8. [Module 08 — Endpoint Security & Hardening](modules/Module-08.md]  
+8. [Module 08 — Endpoint Security & Hardening](modules/Module-08.md)  
 9. [Module 09 — Cryptography Basics](modules/Module-09.md)  
 10. [Module 10 — Log Analysis & SIEM Fundamentals](modules/Module-10.md)  
 11. [Module 11 — IoT Security](modules/Module-11.md)  

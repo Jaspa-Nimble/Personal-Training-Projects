@@ -13,21 +13,21 @@
 
 ## Repo structure 
 
-1. [Module 01 — Information Security Threats and Vulnerabilities](modules/Module-01.md)  
-2. [Module 02 — Information Security Attacks](modules/Module-02.md)  
-3. [Module 03 — Network Security Fundamentals](modules/Module-03.md)  
-4. [Module 04 — Identification, Authentication, and Authorization](modules/Module-04.md)  
-5. [Module 05 — Network Security Controls - Administrative Controls](modules/Module-05.md)  
-6. [Module 06 — Network Security Controls - Physical Controls](modules/Module-06.md)  
-7. [Module 07 — Network Security Controls - Technical Controls](modules/Module-07.md)  
-8. [Module 08 — Network Security Assessment Techniques and Tools](modules/Module-08.md)  
-9. [Module 09 — Application Security](modules/Module-09.md)  
-10. [Module 10 — Virtualization and Cloud Computing](modules/Module-10.md)  
-11. [Module 11 — Wireless Network Security](modules/Module-11.md)  
-12. [Module 12 — Mobile Device Security](modules/Module-12.md)  
-13. [Module 13 — IoT and OT Security](modules/Module-13.md)  
-14. [Module 14 — Cryptography](modules/Module-14.md)  
-15. [Module 15 — Data Security](modules/Module-15.md)
+[Module 01 — Information Security Threats and Vulnerabilities](modules/Module-01.md)  
+[Module 02 — Information Security Attacks](modules/Module-02.md)  
+[Module 03 — Network Security Fundamentals](modules/Module-03.md)  
+[Module 04 — Identification, Authentication, and Authorization](modules/Module-04.md)  
+[Module 05 — Network Security Controls - Administrative Controls](modules/Module-05.md)  
+[Module 06 — Network Security Controls - Physical Controls](modules/Module-06.md)  
+[Module 07 — Network Security Controls - Technical Controls](modules/Module-07.md)  
+[Module 08 — Network Security Assessment Techniques and Tools](modules/Module-08.md)  
+[Module 09 — Application Security](modules/Module-09.md)  
+[Module 10 — Virtualization and Cloud Computing](modules/Module-10.md)  
+[Module 11 — Wireless Network Security](modules/Module-11.md)  
+[Module 12 — Mobile Device Security](modules/Module-12.md)  
+[Module 13 — IoT and OT Security](modules/Module-13.md)  
+[Module 14 — Cryptography](modules/Module-14.md)  
+[Module 15 — Data Security](modules/Module-15.md)
 
 
 ## Contact / Maintainer

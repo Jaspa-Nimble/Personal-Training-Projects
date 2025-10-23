@@ -8,11 +8,11 @@
 - Practice safe analysis of malicious samples in a controlled, isolated environment (analysis only — no deployment).
 
 **Module contents**
-- [`module-01/exercises/Exercise-01.md` ](— Exercise 1): "Create a Trojan to Gain Access to the Target System" (note: conceptual/analysis only).
-- [`module-01/exercises/Exercise-02.md` ](— Exercise 2): "Create a Virus to Infect the Target System" (note: conceptual/analysis only).
-- [`module-01/exercises/Exercise-03.md` ](— Exercise 3): "Create a Worm using the Internet Worm Maker Thing" (note: conceptual/analysis only).
-- [`module-01/exercises/Exercise-04.md` ](— Exercise 4): "User System Monitoring and Surveillance using Spytech SpyAgent" (note: conceptual/analysis only).
-- [`module-01/exercises/Exercise-05.md` ](— Exercise 5): "Find Vulnerabilities on Exploit Sites" (note: vulnerability research with permissions and ethics).
+- [`module-01/Exercise-01.md`](— Exercise 1): "Create a Trojan to Gain Access to the Target System" (note: conceptual/analysis only).
+- [`module-01/Exercise-02.md`](— Exercise 2): "Create a Virus to Infect the Target System" (note: conceptual/analysis only).
+- [`module-01/Exercise-03.md`](— Exercise 3): "Create a Worm using the Internet Worm Maker Thing" (note: conceptual/analysis only).
+- [`module-01/Exercise-04.md`](— Exercise 4): "User System Monitoring and Surveillance using Spytech SpyAgent" (note: conceptual/analysis only).
+- [`module-01/Exercise-05.md`](— Exercise 5): "Find Vulnerabilities on Exploit Sites" (note: vulnerability research with permissions and ethics).
 
 ---
 
